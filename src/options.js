@@ -20,6 +20,7 @@ export const defaultOptions = {
   resolutionX: 560,
   resolutionY: 420,
   bottomReserved: 60,
+  // Depends on your OS.
   fontFamily: "Microsoft YaHei",
   fontSize: 1,
   textSpace: 0,

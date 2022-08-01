@@ -2,7 +2,7 @@ import font from "./font.js"
 
 // @ts-check
 /**
- * @param {Danmaku} danmaku
+ * @param {Danmaku[]} danmaku
  * @param {ExtOption} options
  * @returns
  */

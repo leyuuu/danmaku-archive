@@ -8,12 +8,12 @@ interface DanmakuMeta {
     url: string;
 }
 interface Danmaku {
-    text: string;
-    time: number;
-    mode: string;
-    size: number;
-    color: DanmakuColor;
-    bottom: boolean;
+    text?: string;
+    time?: number;
+    mode?: string;
+    size?: number;
+    color?: DanmakuColor;
+    bottom?: boolean;
     meta: DanmakuMeta;
     layout: any;
 }
