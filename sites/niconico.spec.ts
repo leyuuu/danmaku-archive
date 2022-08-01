@@ -308,7 +308,6 @@ test("オーバーロードⅣ", async ({ page }) => {
 async function getVideoLinks(page, config) {
   await page.route("**/*.{png,jpg,jpeg}", (route) => route.abort()) //No image
   const anchors = page.locator(config.locator).filter({
-    hasText: config.name,
     has: page.locator(`[data-video-type="free"]`), // Free only
   })
 
