@@ -46,6 +46,9 @@ ${keys.map((k) => seriesBlock(k, series[k])).join("\n")}
 
 ## Download archive
 <${info.repo}/archive/refs/heads/${branchName}.zip>
+
+## RSS Feed
+<${info.repo}/archive/refs/commits/${branchName}.atom >
 `
 
   fs.writeFileSync(outputFile, md)
