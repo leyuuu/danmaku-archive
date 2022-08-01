@@ -73,9 +73,9 @@ test("惑星のさみだれ", async ({ page }) => {
 
   links = filterNewLink(links)
 
-  console.log(`INFO: ${newLinks.length}(new) / ${links.length}(free) `)
+  console.log(`INFO: ${links.length}(new) / ${links.length}(free) `)
 
-  for await (const link of newLinks) {
+  for await (const link of links) {
     await page.goto(link, { waitUntil: "domcontentloaded" })
     const title = (await page.title()).split("-")[0].trim()
     await Promise.all([
