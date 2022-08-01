@@ -6,7 +6,7 @@ import fs from "fs"
  */
 
 const info = {
-  repo: "https://github.com/OtaDou/ass-danmaku-store",
+  repo: "https://github.com/leyuuu/danmaku-archive",
 }
 
 const branchName = process.argv[2]
@@ -48,7 +48,7 @@ ${keys.map((k) => seriesBlock(k, series[k])).join("\n")}
 <${info.repo}/archive/refs/heads/${branchName}.zip>
 
 ## RSS Feed
-<${info.repo}/archive/refs/commits/${branchName}.atom >
+<${info.repo}/archive/refs/commits/${branchName}.atom>
 `
 
   fs.writeFileSync(outputFile, md)
