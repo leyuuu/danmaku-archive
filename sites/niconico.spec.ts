@@ -8,6 +8,253 @@ const danmakuConifg = {
 
 test.afterAll(() => {})
 
+test("ようこそ実力至上主義の教室へ", async ({ page }) => {
+  const config = {
+    name: "ようこそ実力至上主義の教室へ 2nd Season",
+    homePage: "https://anime.nicovideo.jp/detail/you-zitsu2/index.html",
+    savePath: "archive/you-zitsu2/",
+    locator: `section >> nth=0 >> a[href^="https://www.nicovideo.jp/watch"]`,
+    commentUrl: /nvcomment.nicovideo.jp\/(api\.json|v1\/threads)/,
+  }
+
+  await page.route("**/*.{png,jpg,jpeg}", (route) => route.abort()) //No image
+  await page.goto(config.homePage, { waitUntil: "domcontentloaded" })
+
+  const links = await getVideoLinks(page, config)
+
+  const newLinks = filterNewLink(links)
+
+  console.log(`INFO: ${newLinks.length}(new) / ${links.length}(free) `)
+
+  for await (const link of newLinks) {
+    await page.goto(link, { waitUntil: "domcontentloaded" })
+    const title = (await page.title()).split("-")[0].trim()
+    await Promise.all([
+      page.reload({ waitUntil: "domcontentloaded" }),
+      page.waitForResponse(async (res) => {
+        return niconicoCommentsHandler(res, config, title, page.url())
+      }),
+    ])
+  }
+})
+
+
+test("惑星のさみだれ", async ({ page }) => {
+  const config = {
+    name: "惑星のさみだれ",
+    homePage: "https://anime.nicovideo.jp/detail/hoshinosamidare/index.html",
+    savePath: "archive/hoshinosamidare/",
+    locator: `section >> nth=0 >> a[href^="https://www.nicovideo.jp/watch"]`,
+    commentUrl: /nvcomment.nicovideo.jp\/(api\.json|v1\/threads)/,
+  }
+
+  await page.route("**/*.{png,jpg,jpeg}", (route) => route.abort()) //No image
+  await page.goto(config.homePage, { waitUntil: "domcontentloaded" })
+
+  const links = await getVideoLinks(page, config)
+
+  const newLinks = filterNewLink(links)
+
+  console.log(`INFO: ${newLinks.length}(new) / ${links.length}(free) `)
+
+  for await (const link of newLinks) {
+    await page.goto(link, { waitUntil: "domcontentloaded" })
+    const title = (await page.title()).split("-")[0].trim()
+    await Promise.all([
+      page.reload({ waitUntil: "domcontentloaded" }),
+      page.waitForResponse(async (res) => {
+        return niconicoCommentsHandler(res, config, title, page.url())
+      }),
+    ])
+  }
+})
+
+
+test("ダンジョンに出会いを求めるのは間違っているだろうかⅣ", async ({ page }) => {
+  const config = {
+    name: "ダンジョンに出会いを求めるのは間違っているだろうかⅣ",
+    homePage: "https://anime.nicovideo.jp/detail/danmachi4/index.html",
+    savePath: "archive/danmachi4/",
+    locator: `section >> nth=0 >> a[href^="https://www.nicovideo.jp/watch"]`,
+    commentUrl: /nvcomment.nicovideo.jp\/(api\.json|v1\/threads)/,
+  }
+
+  await page.route("**/*.{png,jpg,jpeg}", (route) => route.abort()) //No image
+  await page.goto(config.homePage, { waitUntil: "domcontentloaded" })
+
+  const links = await getVideoLinks(page, config)
+
+  const newLinks = filterNewLink(links)
+
+  console.log(`INFO: ${newLinks.length}(new) / ${links.length}(free) `)
+
+  for await (const link of newLinks) {
+    await page.goto(link, { waitUntil: "domcontentloaded" })
+    const title = (await page.title()).split("-")[0].trim()
+    await Promise.all([
+      page.reload({ waitUntil: "domcontentloaded" }),
+      page.waitForResponse(async (res) => {
+        return niconicoCommentsHandler(res, config, title, page.url())
+      }),
+    ])
+  }
+})
+
+test("シャドーハウス2nd Season", async ({ page }) => {
+  const config = {
+    name: "シャドーハウス2nd Season",
+    homePage: "https://anime.nicovideo.jp/detail/shadowshouse2/index.html",
+    savePath: "archive/shadowshouse2/",
+    locator: `section >> nth=0 >> a[href^="https://www.nicovideo.jp/watch"]`,
+    commentUrl: /nvcomment.nicovideo.jp\/(api\.json|v1\/threads)/,
+  }
+
+  await page.route("**/*.{png,jpg,jpeg}", (route) => route.abort()) //No image
+  await page.goto(config.homePage, { waitUntil: "domcontentloaded" })
+
+  const links = await getVideoLinks(page, config)
+
+  const newLinks = filterNewLink(links)
+
+  console.log(`INFO: ${newLinks.length}(new) / ${links.length}(free) `)
+
+  for await (const link of newLinks) {
+    await page.goto(link, { waitUntil: "domcontentloaded" })
+    const title = (await page.title()).split("-")[0].trim()
+    await Promise.all([
+      page.reload({ waitUntil: "domcontentloaded" }),
+      page.waitForResponse(async (res) => {
+        return niconicoCommentsHandler(res, config, title, page.url())
+      }),
+    ])
+  }
+})
+
+
+test("邪神ちゃんドロップキックX", async ({ page }) => {
+  const config = {
+    name: "邪神ちゃんドロップキックX",
+    homePage: "https://anime.nicovideo.jp/detail/jashinchan3/index.html",
+    savePath: "archive/jashinchan3/",
+    locator: `section >> nth=0 >> a[href^="https://www.nicovideo.jp/watch"]`,
+    commentUrl: /nvcomment.nicovideo.jp\/(api\.json|v1\/threads)/,
+  }
+
+  await page.route("**/*.{png,jpg,jpeg}", (route) => route.abort()) //No image
+  await page.goto(config.homePage, { waitUntil: "domcontentloaded" })
+
+  const links = await getVideoLinks(page, config)
+
+  const newLinks = filterNewLink(links)
+
+  console.log(`INFO: ${newLinks.length}(new) / ${links.length}(free) `)
+
+  for await (const link of newLinks) {
+    await page.goto(link, { waitUntil: "domcontentloaded" })
+    const title = (await page.title()).split("-")[0].trim()
+    await Promise.all([
+      page.reload({ waitUntil: "domcontentloaded" }),
+      page.waitForResponse(async (res) => {
+        return niconicoCommentsHandler(res, config, title, page.url())
+      }),
+    ])
+  }
+})
+
+
+
+test("彼女、お借りします", async ({ page }) => {
+  const config = {
+    name: "彼女、お借りします 第2期",
+    homePage: "https://anime.nicovideo.jp/detail/kanokari-official2/index.html",
+    locator: `section >> nth=0 >> a[href^="https://www.nicovideo.jp/watch"]`,
+    savePath: "archive/kanokari2/",
+    commentUrl: /nvcomment.nicovideo.jp\/(api\.json|v1\/threads)/,
+  }
+
+  await page.route("**/*.{png,jpg,jpeg}", (route) => route.abort()) //No image
+  await page.goto(config.homePage, { waitUntil: "domcontentloaded" })
+
+  const links = await getVideoLinks(page, config)
+
+  const newLinks = filterNewLink(links)
+
+  console.log(`INFO: ${newLinks.length}(new) / ${links.length}(free) `)
+
+  for await (const link of newLinks) {
+    await page.goto(link, { waitUntil: "domcontentloaded" })
+    const title = (await page.title()).split("-")[0].trim()
+    await Promise.all([
+      page.reload({ waitUntil: "domcontentloaded" }),
+      page.waitForResponse(async (res) => {
+        return niconicoCommentsHandler(res, config, title, page.url())
+      }),
+    ])
+  }
+})
+
+
+test("Engage Kiss", async ({ page }) => {
+  const config = {
+    name: "Engage Kiss",
+    homePage: "https://anime.nicovideo.jp/detail/engage-kiss/index.html",
+    locator: `section >> nth=0 >> a[href^="https://www.nicovideo.jp/watch"]`,
+    savePath: "archive/engage-kiss/",
+    commentUrl: /nvcomment.nicovideo.jp\/(api\.json|v1\/threads)/,
+  }
+
+  await page.route("**/*.{png,jpg,jpeg}", (route) => route.abort()) //No image
+  await page.goto(config.homePage, { waitUntil: "domcontentloaded" })
+
+  const links = await getVideoLinks(page, config)
+
+  const newLinks = filterNewLink(links)
+
+  console.log(`INFO: ${newLinks.length}(new) / ${links.length}(free) `)
+
+  for await (const link of newLinks) {
+    await page.goto(link, { waitUntil: "domcontentloaded" })
+    const title = (await page.title()).split("-")[0].trim()
+    await Promise.all([
+      page.reload({ waitUntil: "domcontentloaded" }),
+      page.waitForResponse(async (res) => {
+        return niconicoCommentsHandler(res, config, title, page.url())
+      }),
+    ])
+  }
+})
+
+
+test("異世界迷宮でハーレムを", async ({ page }) => {
+  const config = {
+    name: "異世界迷宮でハーレムを",
+    homePage: "https://anime.nicovideo.jp/detail/isekai-harem/index.html",
+    locator: `section >> nth=0 >> a[href^="https://www.nicovideo.jp/watch"]`,
+    savePath: "archive/isekai-harem/",
+    commentUrl: /nvcomment.nicovideo.jp\/(api\.json|v1\/threads)/,
+  }
+
+  await page.route("**/*.{png,jpg,jpeg}", (route) => route.abort()) //No image
+  await page.goto(config.homePage, { waitUntil: "domcontentloaded" })
+
+  const links = await getVideoLinks(page, config)
+
+  const newLinks = filterNewLink(links)
+
+  console.log(`INFO: ${newLinks.length}(new) / ${links.length}(free) `)
+
+  for await (const link of newLinks) {
+    await page.goto(link, { waitUntil: "domcontentloaded" })
+    const title = (await page.title()).split("-")[0].trim()
+    await Promise.all([
+      page.reload({ waitUntil: "domcontentloaded" }),
+      page.waitForResponse(async (res) => {
+        return niconicoCommentsHandler(res, config, title, page.url())
+      }),
+    ])
+  }
+})
+
 test("異世界おじさん", async ({ page }) => {
   const config = {
     name: "異世界おじさん",

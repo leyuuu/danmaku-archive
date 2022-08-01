@@ -1,13 +1,13 @@
 on:
   workflow_dispatch:
   ## Uncomment below if you want run it everyday
-  #schedule:
-  #- cron: "0 0 * * *"
+  schedule:
+  - cron: "0 0 * * *"
 
 permissions: write-all
 
 env:
-  BRANCH: 2022-summer # Change this before push to new branch
+  BRANCH: 2022-summer
 
 jobs:
   task:
