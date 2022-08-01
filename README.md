@@ -20,6 +20,7 @@
 | ----- | ----- | ----- |
 | ようこそ実力至上主義の教室へ 2nd Season 第3話「最高の魂は、この上ない悪徳と極限の美徳を発揮できる。」 | 2022-08-01 | <a href="archive%2Fyou-zitsu2%2F%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E5%AE%9F%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%B8%202nd%20Season%20%E7%AC%AC3%E8%A9%B1%E3%80%8C%E6%9C%80%E9%AB%98%E3%81%AE%E9%AD%82%E3%81%AF%E3%80%81%E3%81%93%E3%81%AE%E4%B8%8A%E3%81%AA%E3%81%84%E6%82%AA%E5%BE%B3%E3%81%A8%E6%A5%B5%E9%99%90%E3%81%AE%E7%BE%8E%E5%BE%B3%E3%82%92%E7%99%BA%E6%8F%AE%E3%81%A7%E3%81%8D%E3%82%8B%E3%80%82%E3%80%8D.ass">ass</a> |
 | ようこそ実力至上主義の教室へ 2nd Season 第1話「困難の中でこそ、平静な心を保たねばならない。」 | 2022-08-01 | <a href="archive%2Fyou-zitsu2%2F%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E5%AE%9F%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%B8%202nd%20Season%20%E7%AC%AC1%E8%A9%B1%E3%80%8C%E5%9B%B0%E9%9B%A3%E3%81%AE%E4%B8%AD%E3%81%A7%E3%81%93%E3%81%9D%E3%80%81%E5%B9%B3%E9%9D%99%E3%81%AA%E5%BF%83%E3%82%92%E4%BF%9D%E3%81%9F%E3%81%AD%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%80%82%E3%80%8D.ass">ass</a> |
+| ようこそ実力至上主義の教室へ 2nd Season 第4話「人材は作り出す必要がある。」 | 2022-08-01 | <a href="archive%2Fyou-zitsu2%2F%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E5%AE%9F%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%B8%202nd%20Season%20%E7%AC%AC4%E8%A9%B1%E3%80%8C%E4%BA%BA%E6%9D%90%E3%81%AF%E4%BD%9C%E3%82%8A%E5%87%BA%E3%81%99%E5%BF%85%E8%A6%81%E3%81%8C%E3%81%82%E3%82%8B%E3%80%82%E3%80%8D.ass">ass</a> |
   
 ## 惑星のさみだれ
 | Title | Time | Resource |
@@ -37,6 +38,7 @@
 | Title | Time | Resource |
 | ----- | ----- | ----- |
 | 彼女、お借りします 第2期 4話「「夜と彼女」 | 2022-08-01 | <a href="archive%2Fkanokari2%2F%E5%BD%BC%E5%A5%B3%E3%80%81%E3%81%8A%E5%80%9F%E3%82%8A%E3%81%97%E3%81%BE%E3%81%99%20%E7%AC%AC2%E6%9C%9F%204%E8%A9%B1%E3%80%8C%E3%80%8C%E5%A4%9C%E3%81%A8%E5%BD%BC%E5%A5%B3%E3%80%8D.ass">ass</a> |
+| 彼女、お借りします 第2期 1話「「夢と彼女」 | 2022-08-01 | <a href="archive%2Fkanokari2%2F%E5%BD%BC%E5%A5%B3%E3%80%81%E3%81%8A%E5%80%9F%E3%82%8A%E3%81%97%E3%81%BE%E3%81%99%20%E7%AC%AC2%E6%9C%9F%201%E8%A9%B1%E3%80%8C%E3%80%8C%E5%A4%A2%E3%81%A8%E5%BD%BC%E5%A5%B3%E3%80%8D.ass">ass</a> |
   
 ## Engage Kiss
 | Title | Time | Resource |
@@ -50,9 +52,20 @@
 | 異世界迷宮でハーレムを《TV放送ver_》 _03「獲得」 | 2022-08-01 | <a href="archive%2Fisekai-harem%2F%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%A7%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%E3%82%92%E3%80%8ATV%E6%94%BE%E9%80%81ver_%E3%80%8B%20_03%E3%80%8C%E7%8D%B2%E5%BE%97%E3%80%8D.ass">ass</a> |
 | 異世界迷宮でハーレムを《TV放送ver_》 _01「出会」 | 2022-08-01 | <a href="archive%2Fisekai-harem%2F%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%A7%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%E3%82%92%E3%80%8ATV%E6%94%BE%E9%80%81ver_%E3%80%8B%20_01%E3%80%8C%E5%87%BA%E4%BC%9A%E3%80%8D.ass">ass</a> |
   
+## ダンジョンに出会いを求めるのは間違っているだろうかⅣ
+| Title | Time | Resource |
+| ----- | ----- | ----- |
+| ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章　迷宮篇　第1話　『出発前夜―プレリュード―』 | 2022-08-01 | <a href="archive%2Fdanmachi4%2F%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AB%E5%87%BA%E4%BC%9A%E3%81%84%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E3%81%AE%E3%81%AF%E9%96%93%E9%81%95%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A0%E3%82%8D%E3%81%86%E3%81%8B%E2%85%A3%20%E6%96%B0%E7%AB%A0%E3%80%80%E8%BF%B7%E5%AE%AE%E7%AF%87%E3%80%80%E7%AC%AC1%E8%A9%B1%E3%80%80%E3%80%8E%E5%87%BA%E7%99%BA%E5%89%8D%E5%A4%9C%E2%80%95%E3%83%97%E3%83%AC%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%89%E2%80%95%E3%80%8F.ass">ass</a> |
+  
+## シャドーハウス2nd Season
+| Title | Time | Resource |
+| ----- | ----- | ----- |
+| シャドーハウス 2nd Season 第4話「犯人候補」 | 2022-08-01 | <a href="archive%2Fshadowshouse2%2F%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%202nd%20Season%20%E7%AC%AC4%E8%A9%B1%E3%80%8C%E7%8A%AF%E4%BA%BA%E5%80%99%E8%A3%9C%E3%80%8D.ass">ass</a> |
+| シャドーハウス 2nd Season 第1話 | 2022-08-01 | <a href="archive%2Fshadowshouse2%2F%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%202nd%20Season%20%E7%AC%AC1%E8%A9%B1.ass">ass</a> |
+  
 
 ## Download archive
-<https://github.com/OtaDou/ass-danmaku-store/archive/refs/heads/2022-summer.zip>
+<https://github.com/leyuuu/danmaku-archive/archive/refs/heads/2022-summer.zip>
 
 ## RSS Feed
-<https://github.com/OtaDou/ass-danmaku-store/archive/refs/commits/2022-summer.atom >
+<https://github.com/leyuuu/danmaku-archive/archive/refs/commits/2022-summer.atom>
