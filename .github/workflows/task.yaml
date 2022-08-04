@@ -2,7 +2,7 @@ on:
   workflow_dispatch:
   # Uncomment below if you want run it everyday
   schedule:
-  - cron: "0 0 * * 0,2,5"
+  - cron: "0 0 * * 0,2,4,6"
 
 permissions: write-all
 
