@@ -14,6 +14,7 @@
 | オーバーロードⅣ Episode1「アインズ・ウール・ゴウン魔導国」 | 2022-07-17 | <a href="archive%2Foverlord4%2F%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89%E2%85%A3%20Episode1%E3%80%8C%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%BA%E3%83%BB%E3%82%A6%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B4%E3%82%A6%E3%83%B3%E9%AD%94%E5%B0%8E%E5%9B%BD%E3%80%8D.ass">ass</a> |
 | オーバーロードⅣ Episode2「リ・エスティーゼ王国」 | 2022-07-20 | <a href="archive%2Foverlord4%2F%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89%E2%85%A3%20Episode2%E3%80%8C%E3%83%AA%E3%83%BB%E3%82%A8%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BC%E7%8E%8B%E5%9B%BD%E3%80%8D.ass">ass</a> |
 | オーバーロードⅣ Episode3「バハルス帝国」 | 2022-07-28 | <a href="archive%2Foverlord4%2F%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89%E2%85%A3%20Episode3%E3%80%8C%E3%83%90%E3%83%8F%E3%83%AB%E3%82%B9%E5%B8%9D%E5%9B%BD%E3%80%8D.ass">ass</a> |
+| オーバーロードⅣ Episode4「謀略の統治者」 | 2022-08-04 | <a href="archive%2Foverlord4%2F%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC%E3%83%89%E2%85%A3%20Episode4%E3%80%8C%E8%AC%80%E7%95%A5%E3%81%AE%E7%B5%B1%E6%B2%BB%E8%80%85%E3%80%8D.ass">ass</a> |
   
 ## ようこそ実力至上主義の教室へ 2nd Season
 | Title | Time | Resource |
@@ -33,29 +34,34 @@
 | ----- | ----- | ----- |
 | 邪神ちゃんドロップキックX 第4話「邪な神保町の過ごし方」 | 2022-08-01 | <a href="archive%2Fjashinchan3%2F%E9%82%AA%E7%A5%9E%E3%81%A1%E3%82%83%E3%82%93%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%AD%E3%83%83%E3%82%AFX%20%E7%AC%AC4%E8%A9%B1%E3%80%8C%E9%82%AA%E3%81%AA%E7%A5%9E%E4%BF%9D%E7%94%BA%E3%81%AE%E9%81%8E%E3%81%94%E3%81%97%E6%96%B9%E3%80%8D.ass">ass</a> |
 | 邪神ちゃんドロップキックX 第1話「ハルマゲドンかるたX」 | 2022-08-01 | <a href="archive%2Fjashinchan3%2F%E9%82%AA%E7%A5%9E%E3%81%A1%E3%82%83%E3%82%93%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%AD%E3%83%83%E3%82%AFX%20%E7%AC%AC1%E8%A9%B1%E3%80%8C%E3%83%8F%E3%83%AB%E3%83%9E%E3%82%B2%E3%83%89%E3%83%B3%E3%81%8B%E3%82%8B%E3%81%9FX%E3%80%8D.ass">ass</a> |
+| 邪神ちゃんドロップキックX 第5話「愛し愛され3000万」 | 2022-08-04 | <a href="archive%2Fjashinchan3%2F%E9%82%AA%E7%A5%9E%E3%81%A1%E3%82%83%E3%82%93%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%AD%E3%83%83%E3%82%AFX%20%E7%AC%AC5%E8%A9%B1%E3%80%8C%E6%84%9B%E3%81%97%E6%84%9B%E3%81%95%E3%82%8C3000%E4%B8%87%E3%80%8D.ass">ass</a> |
   
 ## 彼女、お借りします 第2期
 | Title | Time | Resource |
 | ----- | ----- | ----- |
 | 彼女、お借りします 第2期 4話「「夜と彼女」 | 2022-08-01 | <a href="archive%2Fkanokari2%2F%E5%BD%BC%E5%A5%B3%E3%80%81%E3%81%8A%E5%80%9F%E3%82%8A%E3%81%97%E3%81%BE%E3%81%99%20%E7%AC%AC2%E6%9C%9F%204%E8%A9%B1%E3%80%8C%E3%80%8C%E5%A4%9C%E3%81%A8%E5%BD%BC%E5%A5%B3%E3%80%8D.ass">ass</a> |
 | 彼女、お借りします 第2期 1話「「夢と彼女」 | 2022-08-01 | <a href="archive%2Fkanokari2%2F%E5%BD%BC%E5%A5%B3%E3%80%81%E3%81%8A%E5%80%9F%E3%82%8A%E3%81%97%E3%81%BE%E3%81%99%20%E7%AC%AC2%E6%9C%9F%201%E8%A9%B1%E3%80%8C%E3%80%8C%E5%A4%A2%E3%81%A8%E5%BD%BC%E5%A5%B3%E3%80%8D.ass">ass</a> |
+| 彼女、お借りします 第2期 5話「「誕生日と彼女」 | 2022-08-04 | <a href="archive%2Fkanokari2%2F%E5%BD%BC%E5%A5%B3%E3%80%81%E3%81%8A%E5%80%9F%E3%82%8A%E3%81%97%E3%81%BE%E3%81%99%20%E7%AC%AC2%E6%9C%9F%205%E8%A9%B1%E3%80%8C%E3%80%8C%E8%AA%95%E7%94%9F%E6%97%A5%E3%81%A8%E5%BD%BC%E5%A5%B3%E3%80%8D.ass">ass</a> |
   
 ## Engage Kiss
 | Title | Time | Resource |
 | ----- | ----- | ----- |
 | Engage Kiss _04「奪い切れない未練」 | 2022-08-01 | <a href="archive%2Fengage-kiss%2FEngage%20Kiss%20_04%E3%80%8C%E5%A5%AA%E3%81%84%E5%88%87%E3%82%8C%E3%81%AA%E3%81%84%E6%9C%AA%E7%B7%B4%E3%80%8D.ass">ass</a> |
 | Engage Kiss _1「クズと悪魔と男と女」 | 2022-08-01 | <a href="archive%2Fengage-kiss%2FEngage%20Kiss%20_1%E3%80%8C%E3%82%AF%E3%82%BA%E3%81%A8%E6%82%AA%E9%AD%94%E3%81%A8%E7%94%B7%E3%81%A8%E5%A5%B3%E3%80%8D.ass">ass</a> |
+| Engage Kiss _05「うたかたの爪痕」 | 2022-08-04 | <a href="archive%2Fengage-kiss%2FEngage%20Kiss%20_05%E3%80%8C%E3%81%86%E3%81%9F%E3%81%8B%E3%81%9F%E3%81%AE%E7%88%AA%E7%97%95%E3%80%8D.ass">ass</a> |
   
 ## 異世界迷宮でハーレムを
 | Title | Time | Resource |
 | ----- | ----- | ----- |
 | 異世界迷宮でハーレムを《TV放送ver_》 _03「獲得」 | 2022-08-01 | <a href="archive%2Fisekai-harem%2F%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%A7%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%E3%82%92%E3%80%8ATV%E6%94%BE%E9%80%81ver_%E3%80%8B%20_03%E3%80%8C%E7%8D%B2%E5%BE%97%E3%80%8D.ass">ass</a> |
 | 異世界迷宮でハーレムを《TV放送ver_》 _01「出会」 | 2022-08-01 | <a href="archive%2Fisekai-harem%2F%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%A7%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%E3%82%92%E3%80%8ATV%E6%94%BE%E9%80%81ver_%E3%80%8B%20_01%E3%80%8C%E5%87%BA%E4%BC%9A%E3%80%8D.ass">ass</a> |
+| 異世界迷宮でハーレムを《TV放送ver_》 _04「卒業」 | 2022-08-04 | <a href="archive%2Fisekai-harem%2F%E7%95%B0%E4%B8%96%E7%95%8C%E8%BF%B7%E5%AE%AE%E3%81%A7%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%E3%82%92%E3%80%8ATV%E6%94%BE%E9%80%81ver_%E3%80%8B%20_04%E3%80%8C%E5%8D%92%E6%A5%AD%E3%80%8D.ass">ass</a> |
   
 ## ダンジョンに出会いを求めるのは間違っているだろうかⅣ
 | Title | Time | Resource |
 | ----- | ----- | ----- |
 | ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章　迷宮篇　第1話　『出発前夜―プレリュード―』 | 2022-08-01 | <a href="archive%2Fdanmachi4%2F%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AB%E5%87%BA%E4%BC%9A%E3%81%84%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E3%81%AE%E3%81%AF%E9%96%93%E9%81%95%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A0%E3%82%8D%E3%81%86%E3%81%8B%E2%85%A3%20%E6%96%B0%E7%AB%A0%E3%80%80%E8%BF%B7%E5%AE%AE%E7%AF%87%E3%80%80%E7%AC%AC1%E8%A9%B1%E3%80%80%E3%80%8E%E5%87%BA%E7%99%BA%E5%89%8D%E5%A4%9C%E2%80%95%E3%83%97%E3%83%AC%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%89%E2%80%95%E3%80%8F.ass">ass</a> |
+| ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章　迷宮篇　第2話　『巨蒼の滝―グレート・フォール―』 | 2022-08-04 | <a href="archive%2Fdanmachi4%2F%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AB%E5%87%BA%E4%BC%9A%E3%81%84%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B%E3%81%AE%E3%81%AF%E9%96%93%E9%81%95%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%E3%81%A0%E3%82%8D%E3%81%86%E3%81%8B%E2%85%A3%20%E6%96%B0%E7%AB%A0%E3%80%80%E8%BF%B7%E5%AE%AE%E7%AF%87%E3%80%80%E7%AC%AC2%E8%A9%B1%E3%80%80%E3%80%8E%E5%B7%A8%E8%92%BC%E3%81%AE%E6%BB%9D%E2%80%95%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E2%80%95%E3%80%8F.ass">ass</a> |
   
 ## シャドーハウス2nd Season
 | Title | Time | Resource |
