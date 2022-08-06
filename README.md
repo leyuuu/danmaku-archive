@@ -28,6 +28,7 @@
 | ----- | ----- | ----- |
 | 惑星のさみだれ 第3話「騎士と契約」 | 2022-08-01 | <a href="archive%2Fhoshinosamidare%2F%E6%83%91%E6%98%9F%E3%81%AE%E3%81%95%E3%81%BF%E3%81%A0%E3%82%8C%20%E7%AC%AC3%E8%A9%B1%E3%80%8C%E9%A8%8E%E5%A3%AB%E3%81%A8%E5%A5%91%E7%B4%84%E3%80%8D.ass">ass</a> |
 | 惑星のさみだれ 第1話「雨宮夕日とトカゲの騎士」 | 2022-08-01 | <a href="archive%2Fhoshinosamidare%2F%E6%83%91%E6%98%9F%E3%81%AE%E3%81%95%E3%81%BF%E3%81%A0%E3%82%8C%20%E7%AC%AC1%E8%A9%B1%E3%80%8C%E9%9B%A8%E5%AE%AE%E5%A4%95%E6%97%A5%E3%81%A8%E3%83%88%E3%82%AB%E3%82%B2%E3%81%AE%E9%A8%8E%E5%A3%AB%E3%80%8D.ass">ass</a> |
+| 惑星のさみだれ 第4話「朝日奈氷雨と東雲半月」 | 2022-08-06 | <a href="archive%2Fhoshinosamidare%2F%E6%83%91%E6%98%9F%E3%81%AE%E3%81%95%E3%81%BF%E3%81%A0%E3%82%8C%20%E7%AC%AC4%E8%A9%B1%E3%80%8C%E6%9C%9D%E6%97%A5%E5%A5%88%E6%B0%B7%E9%9B%A8%E3%81%A8%E6%9D%B1%E9%9B%B2%E5%8D%8A%E6%9C%88%E3%80%8D.ass">ass</a> |
   
 ## 邪神ちゃんドロップキックX
 | Title | Time | Resource |
