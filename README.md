@@ -69,6 +69,7 @@
 | ----- | ----- | ----- |
 | シャドーハウス 2nd Season 第4話「犯人候補」 | 2022-08-01 | <a href="archive%2Fshadowshouse2%2F%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%202nd%20Season%20%E7%AC%AC4%E8%A9%B1%E3%80%8C%E7%8A%AF%E4%BA%BA%E5%80%99%E8%A3%9C%E3%80%8D.ass">ass</a> |
 | シャドーハウス 2nd Season 第1話 | 2022-08-01 | <a href="archive%2Fshadowshouse2%2F%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%202nd%20Season%20%E7%AC%AC1%E8%A9%B1.ass">ass</a> |
+| シャドーハウス 2nd Season 第5話 | 2022-08-09 | <a href="archive%2Fshadowshouse2%2F%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%202nd%20Season%20%E7%AC%AC5%E8%A9%B1.ass">ass</a> |
   
 
 ## Download archive
