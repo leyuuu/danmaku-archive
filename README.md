@@ -24,6 +24,7 @@
 | ようこそ実力至上主義の教室へ 2nd Season 第1話「困難の中でこそ、平静な心を保たねばならない。」 | 2022-08-01 | <a href="archive%2Fyou-zitsu2%2F%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E5%AE%9F%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%B8%202nd%20Season%20%E7%AC%AC1%E8%A9%B1%E3%80%8C%E5%9B%B0%E9%9B%A3%E3%81%AE%E4%B8%AD%E3%81%A7%E3%81%93%E3%81%9D%E3%80%81%E5%B9%B3%E9%9D%99%E3%81%AA%E5%BF%83%E3%82%92%E4%BF%9D%E3%81%9F%E3%81%AD%E3%81%B0%E3%81%AA%E3%82%89%E3%81%AA%E3%81%84%E3%80%82%E3%80%8D.ass">ass</a> |
 | ようこそ実力至上主義の教室へ 2nd Season 第4話「人材は作り出す必要がある。」 | 2022-08-01 | <a href="archive%2Fyou-zitsu2%2F%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E5%AE%9F%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%B8%202nd%20Season%20%E7%AC%AC4%E8%A9%B1%E3%80%8C%E4%BA%BA%E6%9D%90%E3%81%AF%E4%BD%9C%E3%82%8A%E5%87%BA%E3%81%99%E5%BF%85%E8%A6%81%E3%81%8C%E3%81%82%E3%82%8B%E3%80%82%E3%80%8D.ass">ass</a> |
 | ようこそ実力至上主義の教室へ 2nd Season 第5話「すべての失敗は成功への過程に過ぎない。」 | 2022-08-13 | <a href="archive%2Fyou-zitsu2%2F%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E5%AE%9F%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%B8%202nd%20Season%20%E7%AC%AC5%E8%A9%B1%E3%80%8C%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E5%A4%B1%E6%95%97%E3%81%AF%E6%88%90%E5%8A%9F%E3%81%B8%E3%81%AE%E9%81%8E%E7%A8%8B%E3%81%AB%E9%81%8E%E3%81%8E%E3%81%AA%E3%81%84%E3%80%82%E3%80%8D.ass">ass</a> |
+| ようこそ実力至上主義の教室へ 2nd Season 第6話「逆境は真実へと至る最初の道筋である。」 | 2022-08-16 | <a href="archive%2Fyou-zitsu2%2F%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E5%AE%9F%E5%8A%9B%E8%87%B3%E4%B8%8A%E4%B8%BB%E7%BE%A9%E3%81%AE%E6%95%99%E5%AE%A4%E3%81%B8%202nd%20Season%20%E7%AC%AC6%E8%A9%B1%E3%80%8C%E9%80%86%E5%A2%83%E3%81%AF%E7%9C%9F%E5%AE%9F%E3%81%B8%E3%81%A8%E8%87%B3%E3%82%8B%E6%9C%80%E5%88%9D%E3%81%AE%E9%81%93%E7%AD%8B%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82%E3%80%8D.ass">ass</a> |
   
 ## 惑星のさみだれ
 | Title | Time | Resource |
@@ -78,6 +79,7 @@
 | シャドーハウス 2nd Season 第4話「犯人候補」 | 2022-08-01 | <a href="archive%2Fshadowshouse2%2F%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%202nd%20Season%20%E7%AC%AC4%E8%A9%B1%E3%80%8C%E7%8A%AF%E4%BA%BA%E5%80%99%E8%A3%9C%E3%80%8D.ass">ass</a> |
 | シャドーハウス 2nd Season 第1話 | 2022-08-01 | <a href="archive%2Fshadowshouse2%2F%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%202nd%20Season%20%E7%AC%AC1%E8%A9%B1.ass">ass</a> |
 | シャドーハウス 2nd Season 第5話 | 2022-08-09 | <a href="archive%2Fshadowshouse2%2F%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%202nd%20Season%20%E7%AC%AC5%E8%A9%B1.ass">ass</a> |
+| シャドーハウス 2nd Season 第6話 | 2022-08-16 | <a href="archive%2Fshadowshouse2%2F%E3%82%B7%E3%83%A3%E3%83%89%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%202nd%20Season%20%E7%AC%AC6%E8%A9%B1.ass">ass</a> |
   
 
 ## Download archive
