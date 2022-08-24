@@ -22,7 +22,7 @@ jobs:
       - name: Setup clash
         uses: OtaDou/setup-clash@v1
         with:
-          subscription_url: iepl.*日本.*1.5
+          subscription_url: "iepl.*日本.*1.5"
           proxies_name_regex: ${{ secrets.SUBSCRIPTION_REGEX }}
       - run: curl -s --proxy "http://127.0.0.1:11223" ipinfo.io | jq .country
       - name: Run task
