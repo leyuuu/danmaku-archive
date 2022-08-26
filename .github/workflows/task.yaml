@@ -24,7 +24,7 @@ jobs:
         with:
           subscription_url: ${{ secrets.SUBSCRIPTION_URL }}
           proxies_name_regex: "日本.*1.5"
-      - run: curl -s --proxy "http://127.0.0.1:11223" ipinfo.io
+      - run: curl -s --proxy "http://127.0.0.1:7890" ipinfo.io
       - name: Run task
         run: |
           git config --local user.email "action@github.com" && git config --local user.name "GitHub Action"
